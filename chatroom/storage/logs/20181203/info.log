@@ -1,0 +1,51 @@
+[ 2018-12-03 08:50:41 ]local.INFO:array (
+  'remote_addr' => '10.0.2.2',
+  'request_time' => '2018-12-03 08:50:40',
+)
+[ 2018-12-03 08:50:41 ]local.INFO:Task0Finished
+
+[ 2018-12-03 08:50:47 ]local.INFO:array (
+  'remote_addr' => '10.0.2.2',
+  'request_time' => '2018-12-03 08:50:46',
+)
+[ 2018-12-03 08:50:47 ]local.INFO:Task0Finished
+
+[ 2018-12-03 08:50:50 ]local.INFO:array (
+  'remote_addr' => '10.0.2.2',
+  'request_time' => '2018-12-03 08:50:50',
+)
+[ 2018-12-03 08:50:51 ]local.INFO:Task0Finished
+
+[ 2018-12-03 08:50:53 ]local.INFO:array (
+  'remote_addr' => '10.0.2.2',
+  'request_time' => '2018-12-03 08:50:52',
+)
+[ 2018-12-03 08:50:53 ]local.INFO:Task0Finished
+
+[ 2018-12-03 08:50:59 ]local.INFO:Task1Finished
+
+[ 2018-12-03 08:51:05 ]local.INFO:Task1Finished
+
+[ 2018-12-03 08:51:12 ]local.INFO:Task1Finished
+
+[ 2018-12-03 08:51:18 ]local.INFO:Task1Finished
+
+[ 2018-12-03 08:57:27 ]local.INFO:4 disconnected
+[ 2018-12-03 08:57:27 ]local.INFO:Task2Finished
+
+[ 2018-12-03 09:31:46 ]local.INFO:Task2Finished
+
+[ 2018-12-03 09:44:06 ]local.INFO:array (
+  'remote_addr' => '10.0.2.2',
+  'request_time' => '2018-12-03 09:44:05',
+)
+[ 2018-12-03 09:44:12 ]local.INFO:Task3Finished
+
+[ 2018-12-03 09:44:12 ]local.INFO:Task4Finished
+
+[ 2018-12-03 09:44:31 ]local.INFO:Task5Finished
+
+[ 2018-12-03 09:44:42 ]local.INFO:Task6Finished
+
+[ 2018-12-03 10:45:08 ]local.INFO:Task3Finished
+

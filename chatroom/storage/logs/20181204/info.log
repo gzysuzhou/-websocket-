@@ -1,0 +1,18 @@
+[ 2018-12-04 02:32:01 ]local.INFO:Task7Finished
+
+[ 2018-12-04 06:25:46 ]local.INFO:Task8Finished
+
+[ 2018-12-04 09:58:25 ]local.INFO:array (
+  'remote_addr' => '10.0.2.2',
+  'request_time' => '2018-12-04 09:58:24',
+)
+[ 2018-12-04 09:58:30 ]local.INFO:Task0Finished
+
+[ 2018-12-04 09:58:43 ]local.INFO:array (
+  'remote_addr' => '10.0.2.2',
+  'request_time' => '2018-12-04 09:58:43',
+)
+[ 2018-12-04 09:58:51 ]local.INFO:Task0Finished
+
+[ 2018-12-04 09:58:59 ]local.INFO:Task1Finished
+

@@ -1,0 +1,16 @@
+[ 2018-12-07 07:03:03 ]local.INFO:array (
+  'remote_addr' => '10.0.2.2',
+  'request_time' => '2018-12-07 07:03:02',
+)
+[ 2018-12-07 07:03:08 ]local.INFO:Task0Finished
+
+[ 2018-12-07 07:03:19 ]local.INFO:array (
+  'remote_addr' => '10.0.2.2',
+  'request_time' => '2018-12-07 07:03:18',
+)
+[ 2018-12-07 07:03:24 ]local.INFO:Task0Finished
+
+[ 2018-12-07 07:03:29 ]local.INFO:Task1Finished
+
+[ 2018-12-07 07:03:38 ]local.INFO:Task1Finished
+

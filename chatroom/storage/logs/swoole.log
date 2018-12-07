@@ -1,0 +1,5 @@
+[2018-12-03 08:57:27 ^2690.12]	NOTICE	swFactoryProcess_finish (ERROR 1004): send 66 byte failed, because connection[fd=4] is closed.
+[2018-12-05 06:55:10 #26660.2]	NOTICE	Server is shutdown now.
+[2018-12-07 07:02:40 #3615.2]	NOTICE	Server is shutdown now.
+[2018-12-07 07:02:40 $3616.0]	ERROR	swProcessPool_shutdown(:331): kill(3619) failed. Error: No such process[3].
+[2018-12-07 07:02:40 $3616.0]	ERROR	swProcessPool_shutdown(:340): waitpid(3619) failed. Error: No child processes[10].
